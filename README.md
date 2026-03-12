@@ -1,4 +1,3 @@
-# NBCP-AI-Chatbot
 # NBCP RAG Chatbot — Gemma 2B IT vs. Qwen2.5-1.5B-Instruct
 
 > **Development and Evaluation of a Domain-Specific RAG Chatbot for the National Building Code of the Philippines**
